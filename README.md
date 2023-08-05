@@ -13,6 +13,11 @@ module "my_vpc" {
 }
 ```
 
+## Examples
+
+- [minimal-network](examples/minimal-network) - Create a VPC with the minimum
+  configuration.
+
 ## Requirements
 
 | Name | Version |
