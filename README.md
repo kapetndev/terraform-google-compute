@@ -19,6 +19,7 @@ module "my_vpc" {
   configuration.
 - [network-and-rules](examples/network-and-rules) - Create a VPC with
   additional configuration to manage subnetworks and firewall rules.
+- [virtual-machine](examples/virtual-machine) - Create a virtual machine.
 
 ## Requirements
 
