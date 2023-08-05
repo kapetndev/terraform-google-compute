@@ -32,7 +32,8 @@ module "my_vpc" {
 
 ## Modules
 
-No modules.
+- [`firewall_rules`](modules/firewall_rules) - Create and manage VPC firewall
+  rules.
 
 ## Resources
 
