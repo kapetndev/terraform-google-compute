@@ -17,6 +17,8 @@ module "my_vpc" {
 
 - [minimal-network](examples/minimal-network) - Create a VPC with the minimum
   configuration.
+- [network-and-rules](examples/network-and-rules) - Create a VPC with
+  additional configuration to manage subnetworks and firewall rules.
 
 ## Requirements
 
