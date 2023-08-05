@@ -36,6 +36,8 @@ module "my_vpc" {
 
 - [`firewall_rules`](modules/firewall_rules) - Create and manage VPC firewall
   rules.
+- [`gce_instance`](modules/gce_instance) - Create and manage a virtual machines
+  instance.
 
 ## Resources
 
