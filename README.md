@@ -1,4 +1,4 @@
-# terraform-google-compute
+# terraform-google-compute ![policy](https://github.com/kapetndev/terraform-google-compute/workflows/policy/badge.svg?event=push)
 
 Terraform module to create and manage Google Cloud Platform compute resources.
 
