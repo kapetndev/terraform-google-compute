@@ -20,6 +20,8 @@ module "my_vpc" {
 - [network-and-rules](examples/network-and-rules) - Create a VPC with
   additional configuration to manage subnetworks and firewall rules.
 - [virtual-machine](examples/virtual-machine) - Create a virtual machine.
+- [kubernetes-cluster](examples/kubernetes-cluster) - Create a Kubernetes
+  cluster and separately managed node pool.
 
 ## Requirements
 
