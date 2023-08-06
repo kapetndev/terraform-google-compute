@@ -39,6 +39,10 @@ module "my_vpc" {
   rules.
 - [`gce_instance`](modules/gce_instance) - Create and manage a virtual machines
   instance.
+- [`gke_cluster`](modules/gke_cluster) - Create and manage a Kubernetes cluster
+  where the node pool must be provisioned separately.
+- [`gke_node_pool`](modules/gke_node_pool) - Create and manage a Kubernetes
+  node pool.
 
 ## Resources
 
